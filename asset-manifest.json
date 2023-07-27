@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Gym-with-friday-chatbot/static/css/main.63ef5f9a.css",
+    "main.js": "/Gym-with-friday-chatbot/static/js/main.3134886e.js",
+    "static/js/787.c837b1d3.chunk.js": "/Gym-with-friday-chatbot/static/js/787.c837b1d3.chunk.js",
+    "index.html": "/Gym-with-friday-chatbot/index.html",
+    "main.63ef5f9a.css.map": "/Gym-with-friday-chatbot/static/css/main.63ef5f9a.css.map",
+    "main.3134886e.js.map": "/Gym-with-friday-chatbot/static/js/main.3134886e.js.map",
+    "787.c837b1d3.chunk.js.map": "/Gym-with-friday-chatbot/static/js/787.c837b1d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.63ef5f9a.css",
+    "static/js/main.3134886e.js"
+  ]
+}
